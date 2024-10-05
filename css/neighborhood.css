@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(119, 241, 241);
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    padding-left: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main{
+    color:rebeccapurple;
+}
+footer{
+    color:rebeccapurple;
+}
+img.imgg{
+    text-align: left;
+}

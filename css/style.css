@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(119, 241, 241);
+}
+h1{
+    text-align: center;
+    color:rgb(228, 34, 228);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 10cm;
+}
+p{
+    color:blue;
+    text-align: justify;
+    font-size: 20px;
+}
+ol{
+    text-align: center;
+    color:#0880e2;
+    list-style-type: none;
+    line-height: 5mm;
+}
+a{
+    color: black;
+    text-decoration: none;
+    padding-left: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main{
+    display: grid;
+    grid-template-columns: auto;
+    padding: 10px;
+}
+
